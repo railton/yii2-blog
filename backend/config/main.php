@@ -35,7 +35,7 @@ return [
         ],
         'urlManagerFrontend' => [
             'class' => 'yii\web\urlManager',
-            'baseUrl' => '/ceteli/aulas/blog/frontend/web',
+            'baseUrl' => '/blog/frontend/web',
             'enablePrettyUrl' => true,
             'showScriptName' => false,
         ],
