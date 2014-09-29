@@ -25,6 +25,11 @@ Selecione a opção 0
 
 Após isso e ó criar o banco e configurar a conexão no arquivo common/config/main-local.php.
 
+Edite o arquivo @backend/config/main.php
+e em 'baseUrl' => '/blog/frontend/web', configure a url do frontend do blog.
+Se ele ficar em http://localhost/blog/frontend/web
+
+
 O script do banco encontra-se na pasta database.
 
 Caso queira visualizar as tabelas do banco, baixe o Sql Power Architect.
