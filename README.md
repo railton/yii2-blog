@@ -27,7 +27,7 @@ Após isso e ó criar o banco e configurar a conexão no arquivo common/config/m
 
 Edite o arquivo @backend/config/main.php
 e em 'baseUrl' => '/blog/frontend/web', configure a url do frontend do blog.
-Se ele ficar em http://localhost/blog/frontend/web
+O exemplo está configurado caso ele esteja na seguinte url rlhttp://localhost/blog/frontend/web
 
 
 O script do banco encontra-se na pasta database.
