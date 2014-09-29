@@ -3,9 +3,11 @@ Yii 2 Blog
 
 Atividade realizada no treinamento de Yii2
 
-Instalação
 
-Instalar a seguinte extensã:
+Instalação
+===================================
+
+Instalar a seguinte extensão:
 composer global require "fxp/composer-asset-plugin:1.0.0-beta2"
 
 Na pasta do projeto digite o seguinte comando para atualizar o projeto:
